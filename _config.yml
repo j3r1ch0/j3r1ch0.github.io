@@ -1,6 +1,5 @@
-title: Hacker theme
-description: Hacker is a theme for GitHub Pages.
-show_downloads: true
+title: Mike Myers
+description: Chronicling My OffSec Journey
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
-
