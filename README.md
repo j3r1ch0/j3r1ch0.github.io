@@ -1,4 +1,4 @@
-# This is where I discuss all things OffSec
+# All things OffSec
 
 <br>
 
