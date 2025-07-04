@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+I developed this site to be a sort of scrapbook of my journey through offensive security. I wish I had started it sooner but, better late than never. **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
 
@@ -35,6 +35,12 @@ var fun = function lang(l) {
 GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
+```
+
+```python
+    //Python code blocks test
+      def hello_world():
+          print("Hello, world!")
 ```
 
 #### Header 4
