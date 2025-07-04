@@ -8,7 +8,7 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 There should be whitespace between paragraphs.
 
-[link to the test-page](testing.html)
+[link to the test-page](about.html)
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
