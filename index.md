@@ -2,11 +2,13 @@
 layout: default
 ---
 
-I developed this site to be a sort of scrapbook of my journey through offensive security. I wish I had started it sooner but, better late than never. **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to resume](./resume.md).
+[Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
+
+[link to the test-page](pages/test-page.md)
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
@@ -35,12 +37,6 @@ var fun = function lang(l) {
 GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
-```
-
-```python
-    //Python code blocks test
-      def hello_world():
-          print("Hello, world!")
 ```
 
 #### Header 4
