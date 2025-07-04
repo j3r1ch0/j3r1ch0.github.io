@@ -2,4 +2,4 @@
 
 ### Musings about recent security news, tutorials, stories from penetration tests, and hack the box writeups
 
-testing...
+<p>I am testing out writing the site in <strong>markdown</strong> to try and get a feel for the process</p>
