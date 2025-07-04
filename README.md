@@ -1,5 +1,5 @@
-# j3r1ch0's Security Blog
+# This is where I discuss all things OffSec
 
-### Musings about recent security news, tutorials, stories from penetration tests, and hack the box writeups
+<br>
 
-<p>I am testing out writing the site in <strong>markdown</strong> to try and get a feel for the process</p>
+### OffSec Discussion, Pentest Stories, Tutorials, CTF Writeups, and More
