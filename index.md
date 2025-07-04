@@ -4,7 +4,7 @@ layout: default
 
 I developed this site to be a sort of scrapbook of my journey through offensive security. I wish I had started it sooner but, better late than never. **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to resume](./resume.html).
+[Link to resume](./resume.md).
 
 There should be whitespace between paragraphs.
 
